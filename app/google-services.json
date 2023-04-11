@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "619629454480",
+    "project_id": "fenixdistribuidora-e5cbf",
+    "storage_bucket": "fenixdistribuidora-e5cbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619629454480:android:e269ce5187566de42a2415",
+        "android_client_info": {
+          "package_name": "com.example.fenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619629454480-kks5l6n51rjsltd114fvla57ujbhjlji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fenix",
+            "certificate_hash": "6a4ab3045ce438a5da8abe3cd64139d8c0565b62"
+          }
+        },
+        {
+          "client_id": "619629454480-0493ltjvcf23hfagnipei9sucdmmktgl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAajNBJcQUVS9tCiuSne6_8GR8JfyRt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619629454480-0493ltjvcf23hfagnipei9sucdmmktgl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fenix</string>
+    <string name="entrar"><u>Entrar</u></string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="iniciarSessao">Iniciar Sessão</string>
+    <string name="entrarCom">Entrar com rede social</string>
+    <string name="gmail">Gmail</string>
+    <string name="facebook">Facebook</string>
+    <string name="cadastre"><u>Cadastre-se</u></string>
+    <string name="criarConta"><u>Criar uma conta</u></string>
+    <string name="inserirEmail">Inserir seu email</string>
+    <string name="usuario">Usuário</string>
+    <string name="registre">Registre-se</string>
+    <string name="acesse">Acesse com</string>
+    <string name="contGoogle">Continuar com o google</string>
+    <string name="seusDados">Seus dados:</string>
+    <string name="fenix">Fênix</string>
+</resources>
